@@ -20,6 +20,9 @@ Conducted security audits across the following protocol categories:
 - NFTs / Marketplaces
 - Hybrid exchanges
 
+### Cairo Smart Contract Hacking Course | [Cairo SCH Course](https://cairo.smartcontractshacking.com/)
+Collaborated with [Johnny Time](https://x.com/RealJohnnyTime) to design complex hacking and security exercises for the Cairo smart contract security course. Covering Cairo-specific vulnerability patterns, protocol security, and real-world exploit scenarios.
+
 ### Contacts
 - Twitter : [@subsix_](https://x.com/subsix)
 - Telegram : [@sub_six](https://t.me/sub_six)
