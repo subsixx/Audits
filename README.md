@@ -8,6 +8,18 @@ This repository contains all the audits I have conducted, including private/shad
 | [ChakraChain](https://chakrachain.io/home) | Contest | Code4rena | Modular Settlement Network | - | [2 High ](https://code4rena.com/@subroutine) |
 | [Starknet Staking](https://docs.starknet.io/staking/overview/) | Contest | CodeHawks | Starknet PoS staking protocol| [23](https://codehawks.cyfrin.io/c/2024-09-starknet-staking/results/?lt=contest&page=3&sc=reward&sj=reward&t=leaderboard) | 1 High ( Report Private ) |
 | Total | 4 Audits |  |  |  | 5 Highs, 1 Low |
+
+### Smart Contract Security Auditor at Cairo Security Clan (Digine Security F.Z. LLC) [ November 2024 – November 2025 ]
+
+Conducted security audits across the following protocol categories:
+- Cairo / Starknet
+- Solidity / EVM
+- DeFi
+- Blockchain naming services
+- Liquid staking
+- NFTs / Marketplaces
+- Hybrid exchanges
+
 ### Contacts
 - Twitter : [@subsix_](https://x.com/subsix)
 - Telegram : [@sub_six](https://t.me/sub_six)
