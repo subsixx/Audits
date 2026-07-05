@@ -3,7 +3,7 @@ This repository documents my smart contract security works, public contest submi
 I spent 1.5 years auditing protocols professionally at Cairo Security Clan and independently, working across DeFi, bridges, staking systems, NFT platforms, hybrid exchanges, settlement layers etc in Solidity and Cairo.
 ## Smart Contract Security Auditor at Cairo Security Clan (Digine Security F.Z. LLC) [ November 2024 – November 2025 ]
 
-Conducted security audits across DeFi, bridges, staking systems, NFT platforms, hybrid exchanges, and settlement layers in Solidity and Cairo. The following are protocols with publicly available audit reports — several additional audits conducted under NDA are not listed here
+Conducted security audits across DeFi, bridges, staking systems, NFT platforms, hybrid exchanges, and settlement layers in Solidity and Cairo. The following are protocols with publicly available audit reports — several additional audits conducted are private and not listed here
 
 | Protocol | Description | Stack | Report | Provider |
 |:--------:|:-----------:|:-----:|:------:|:--------:|
